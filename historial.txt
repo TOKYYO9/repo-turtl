@@ -1,0 +1,9 @@
+    1  ls
+    2  man ls
+    3  pwd
+    4  cd repogit/
+    5  git clone https://github.com/TOKYYO9/repo-turtl.git
+    6  ls
+    7  cd repo-turtl/
+    8  ls
+    9  history > historial.txt
